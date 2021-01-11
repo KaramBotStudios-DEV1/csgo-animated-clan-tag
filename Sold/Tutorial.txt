@@ -1,5 +1,0 @@
-move animatedclantag.cfg to 
-C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-run ClanTag.ahk [make sure u install autohotkey from their website]
-every time u shutdown the game and turn back on you need to write exec animatedclantag [when u type exec it will be at the top]
-f12 is the bind to turn on the tag
