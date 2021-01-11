@@ -1,10 +1,6 @@
 **Tutorial**
 
-1) join http://steamcommunity.com/groups/hrz1
-
-http://steamcommunity.com/groups/hrzanimatedclantag2
-
-http://steamcommunity.com/groups/hrz3
+1) join http://steamcommunity.com/groups/hrz1 http://steamcommunity.com/groups/hrzanimatedclantag2 http://steamcommunity.com/groups/hrz3
 
 2) move animatedclantag.cfg to C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
