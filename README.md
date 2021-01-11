@@ -1,0 +1,1 @@
+# csgo-animated-clan-tag
